@@ -13,7 +13,7 @@ This `HiddenDoclet` allows using the `@hidden` tag in Java source code, independ
 - Use the `@hidden` tag before any method or variable you don't want to appear in the API documentation of your application.
 - Use the `HiddenDoclet` with `javadoc`.
 
-A precompiled `HiddenDoclet.jar` is available [here](). 
+A precompiled `HiddenDoclet.jar` is available in the "releases" section of this GitHub project. 
 
 ## For Java >= 9
 - Use the `@hidden` tag before any method or variable you don't want to appear in the API documentation of your application.
